@@ -1,0 +1,32 @@
+{
+  "name": "google-sync",
+  "version": "1.0.0",
+  "description": "Wordpress Google workspace integration plugin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OssianEriksson/google-sync.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "Plugin",
+    "Google",
+    "Workspace",
+    "GSuite",
+    "Ftek",
+    "Chalmers",
+    "Fysikteknologsektionen",
+    "Spidera"
+  ],
+  "author": "Spidera",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OssianEriksson/google-sync/issues"
+  },
+  "homepage": "https://github.com/OssianEriksson/google-sync#readme",
+  "devDependencies": {
+    "@wordpress/env": "^4.1.3"
+  }
+}
